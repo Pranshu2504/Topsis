@@ -11,27 +11,6 @@ This project provides:
 - A Python package published on PyPI
 - A Flask-based web service with email delivery
 
-## Repository Structure
-
-
-topsis/
-├── cli/
-│   └── Topsis-Pranshu-102313009/
-│       ├── topsis_pranshu/
-│       ├── setup.py
-│       ├── README.md
-│       └── LICENSE
-├── web/
-│   ├── app.py
-│   ├── topsis_core.py
-│   ├── templates/
-│   │   └── index.html
-│   └── uploads/
-├── screenshots/
-│   ├── form_screen.png
-│   └── result_screen.png
-└── .gitignore
-
 
 ## Part I – Command Line Interface
 
